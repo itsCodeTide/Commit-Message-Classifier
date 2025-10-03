@@ -226,7 +226,8 @@ Created as a college project demonstrating full-stack development with Python an
 
 ## Screenshots
 
-*Add screenshots of your application here*
+<img width="1900" height="958" alt="Screenshot 2025-10-03 190604" src="https://github.com/user-attachments/assets/00ad151f-1dae-4629-9b02-d050d88a1d4e" />
+<img width="1901" height="962" alt="Screenshot 2025-10-03 190618" src="https://github.com/user-attachments/assets/d441ec0e-3442-48af-8a6f-ae67451e36b1" />
 
 ## Troubleshooting
 
